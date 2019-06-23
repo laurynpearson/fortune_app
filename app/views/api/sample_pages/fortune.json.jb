@@ -1,4 +1,6 @@
-{message: "hi"}
+#feature 1
+fortune = ["You will obtain wealth.", "You will meet someone exciting."]
+p fortune.sample
 
 
 
