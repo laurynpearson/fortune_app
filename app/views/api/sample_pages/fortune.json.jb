@@ -2,5 +2,8 @@
 fortune = ["You will obtain wealth.", "You will meet someone exciting."]
 p fortune.sample
 
+#feature 2
+lucky_numbers = rand(1..60)
+p lucky_numbers
 
 
